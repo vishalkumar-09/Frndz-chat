@@ -1,2 +1,2 @@
-# NexChat
+# PulseChat
 
