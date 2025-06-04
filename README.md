@@ -1,2 +1,2 @@
-# PulseChat
+# EmotiChat-VideoCall
 
