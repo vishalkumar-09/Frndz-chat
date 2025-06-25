@@ -1,2 +1,2 @@
-# EmotiChat-VideoCall WEB APPLICATION
+# Frndz Chat 
 
