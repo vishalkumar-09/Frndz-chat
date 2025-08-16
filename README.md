@@ -49,10 +49,6 @@
 
 ### 🧪 API Testing  
 - Endpoints tested via **Postman**  
-
-### 📊 Diagrams & Documentation  
-- Includes **ER diagrams** and **workflow docs** for clarity  
-
 ---
 
 ## 🧩 Project Structure  
