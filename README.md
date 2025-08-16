@@ -1,4 +1,4 @@
-# 🎥 Frndz Chat — Video Calling & Real-time Chat App (MERN)  
+# Frndz Chat — Video Calling & Real-time Chat App (MERN)  
 
 > A **production-grade language exchange & social platform** built with the **MERN stack**, featuring **real-time chat, video calls (with screen sharing & recording), social/friend system, onboarding, theming, and notifications**.  
 
