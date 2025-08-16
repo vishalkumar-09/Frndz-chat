@@ -131,12 +131,10 @@ Customize Themes
 
 Receive Notifications & Use Protected Pages
 
-### 👨💻 Why Use/Build Streamify?
+### 👨💻 Why Build Frndz Chat?
 
 Sharpen full-stack development skills with advanced real-time features & authentication
 
-Deploy a polished, enterprise-ready language exchange/social platform
-
 Learn scalable patterns & best practices for team-based projects
 
- ### 🔥 Streamify is your go-to app for real-time video calling, chat, and social connections — built with the MERN stack for production-grade scalability 🚀
+ ### 🔥 Frndz Chat is your go-to app for real-time video calling, chat, and social connections — built with the MERN stack for production-grade scalability 🚀
