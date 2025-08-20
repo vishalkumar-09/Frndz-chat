@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Tech Stack  
+##  Tech Stack  
 
 - **Backend:** Node.js, Express, MongoDB, Mongoose  
 - **Frontend:** React (Vite), TanStack Query, Tailwind CSS  
@@ -14,46 +14,46 @@
 
 ---
 
-## 🎯 Key Features  
+##  Key Features  
 
-### 🔐 Authentication  
+###  Authentication  
 - Secure **JWT authentication** (signup/login)  
 - Protected routes  
 
-### 🧑‍💻 Onboarding Flow  
+###  Onboarding Flow  
 - Profile completion with **bio, native/learning language, location**  
 
-### 👥 Social & Friends System  
+###  Social & Friends System  
 - Friend requests (accept/decline)  
 - Persistent friend lists stored in **MongoDB**  
 
-### 💬 Real-Time Chat  
+###  Real-Time Chat  
 - Messages, reactions, threads, typing indicators, online status  
 - Image uploads & emoji reactions  
 
-### 📹 Video Calling  
+###  Video Calling  
 - One-on-one & group calls  
 - **Screen sharing**, **reactions**, and **call recording**  
 
-### 🎨 UI Themes  
+###  UI Themes  
 - **32 distinct themes** for full customization  
 
-### ⚙️ Custom Hooks & Best Practices  
+###  Custom Hooks & Best Practices  
 - Reusable React hooks for production-quality code  
 
-### 🔔 Notification System  
+###  Notification System  
 - In-app notifications for friend requests & activity  
 
-### 🔒 Protected Navigation  
+###  Protected Navigation  
 - Only onboarded users can access core app features  
 
-### 🧪 API Testing  
+###  API Testing  
 - Endpoints tested via **Postman**  
 ---
 
-## 🧩 Project Structure  
+##  Project Structure  
 
-### 📡 Backend  
+###  Backend  
 - **Express RESTful API**  
 - Routes: User/Auth/Chat/Call  
 - Controllers for business logic  
@@ -61,7 +61,7 @@
 - JWT authentication & password hashing (bcrypt)  
 - `.env` for secrets/configs  
 
-### 🎨 Frontend  
+###  Frontend  
 - React app (Vite scaffold)  
 - **TanStack Query** for advanced state management  
 - **TailwindCSS** with theme selector  
@@ -71,13 +71,13 @@
 
 ---
 
-## 🛠️ Setup Instructions  
+##  Setup Instructions  
 
-### 1️⃣ Clone Backend & Frontend  
+### 1️. Clone Backend & Frontend  
 ```bash
 git clone https://github.com/vishalkumar-09/Frndz-chat
 ```
-### 2️⃣ Install Dependencies
+### 2️. Install Dependencies
 # Backend
 ```bash
 npm install
@@ -86,55 +86,55 @@ npm install
 ```bash
 npm install
 ```
-### 3️⃣ Set Up Database
+### 3️. Set Up Database
 
 Create a MongoDB Atlas free cluster
 
 Add cluster URI & credentials in .env
 
-### 4️⃣ Configure Stream API
+### 4️. Configure Stream API
 
 Register at GetStream
 
 Get API Key & Secret, add them to .env
 
-### 5️⃣ Add Other Secrets
+### 5️. Add Other Secrets
 
 JWT Secret, etc.
 
-### 6️⃣ Run Servers
+### 6️. Run Servers
 # Backend
 npm run dev    -->runs with Nodemon
 
 # Frontend
 npm run dev    -->Vite default port: 5173
 
-### 7️⃣ Visit App
+### 7️. Visit App
 
 **Frontend**: http://localhost:5173
 
 **Backend**: http://localhost:5010
 
-### 🖥️ Usage Flow
+###  Usage Flow
 
-Signup/Login
+->Signup/Login
 
-Complete Onboarding Profile
+->Complete Onboarding Profile
 
-Add & Manage Friends
+->Add & Manage Friends
 
-Chat in Real-Time
+->Chat in Real-Time
 
-Invite Friends to Video Calls
+->Invite Friends to Video Calls
 
-Customize Themes
+->Customize Themes
 
 Receive Notifications & Use Protected Pages
 
-### 👨💻 Why Build Frndz Chat?
+###  Why Build Frndz Chat?
 
-Sharpen full-stack development skills with advanced real-time features & authentication
+->Sharpen full-stack development skills with advanced real-time features & authentication
 
-Learn scalable patterns & best practices for team-based projects
+->Learn scalable patterns & best practices for team-based projects
 
- ### 🔥 Frndz Chat is your go-to app for real-time video calling, chat, and social connections — built with the MERN stack for production-grade scalability 🚀
+ ###  Frndz Chat is your go-to app for real-time video calling, chat, and social connections — built with the MERN stack for production-grade scalability 🚀
