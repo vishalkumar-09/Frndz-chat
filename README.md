@@ -137,4 +137,4 @@ Receive Notifications & Use Protected Pages
 
 ->Learn scalable patterns & best practices for team-based projects
 
- ###  Frndz Chat is your go-to app for real-time video calling, chat, and social connections — built with the MERN stack for production-grade scalability 🚀
+ ###  Frndz Chat is your go-to app for real-time video calling, chat, and social connections — built with the MERN stack for production-grade scalability.
